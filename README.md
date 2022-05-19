@@ -1,17 +1,10 @@
 ### Hi there 👋
 My name is Druvanand
 I have a keen understanding and hands-on experience in Windows Server(upto 2022) administrator, Cisco Networking, Database, AWS, Devops, Python
-<!--
-**DRUVANAND/DRUVANAND** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... ddfd
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+- 🔭 I’m currently working on - Windows server(2016R2, 2012, 2019, 2022) configuring and troubleshooting.
+- 🌱 I’m currently learning - AWS, Devops
+- 💬 Ask me about - Passion
+- 📫 How to reach me: +91-9036332880, dhruvdd7567@gmail.com
+- 😄 Pronouns: 
+- ⚡ Fun fact: 
